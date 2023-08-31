@@ -24,7 +24,7 @@ int binary_tree_balance(const binary_tree_t *tree)
  * binary_tree_height - This is a function that will get
  * the height of a binary tree
  * @tree: This is the pointer to the root
- * Return the height or 0
+ * Return: the height or 0
  */
 
 size_t binary_tree_height(const binary_tree_t *tree)
